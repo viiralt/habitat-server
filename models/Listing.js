@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const slug = require('slugs');
 
-const listingSchema = new mongoose.Schema({
+const ListingSchema = new mongoose.Schema({
   name: {
     type: String,
     trim: true,
@@ -19,24 +19,29 @@ const listingSchema = new mongoose.Schema({
     required: 'Please enter asking price',
   },
   size: {
-    area: String,
+    area_sqm: String,
     bedrooms: Number,
     bathrooms: Number,
   },
   features: {},
   photo: String,
   slug: String,
-  owner: {
-    type: mongoose.Schema.ObjectId,
-    ref: 'User',
-    required: 'Please provide your credentials',
+  created: {
+    type: Date,
+    default: Date.now(),
   },
 });
 
 // TODOS: figure out how to handle features: duplex, renovated, corner unit, small pets allowed, pet allowed, swimming pool, park
 // TODOS: add location to schema
 
-/* listingSchema.pre('save', async function(next) {
+/* owner: {
+  type: mongoose.Schema.ObjectId,
+  ref: 'User',
+  required: 'Please provide your credentials',
+}, */
+
+ListingSchema.pre('save', async function(next) {
   if (!this.isModified('name')) {
     return next();
   }
@@ -50,6 +55,6 @@ const listingSchema = new mongoose.Schema({
     this.slug = `${this.slug}-${listingsWithSlug.length + 1}`; // if monkey-bar exists, slug will be monkey-bar-2, etc. increment by 1
   }
   next();
-}); */
+});
 
-module.exports = mongoose.model('Listing', listingSchema);
+module.exports = mongoose.model('Listing', ListingSchema);

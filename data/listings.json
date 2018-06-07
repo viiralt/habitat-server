@@ -1,0 +1,79 @@
+[{
+    "name": "Discover the Old City from a Bright and Airy Apartment",
+    "description": "Wake up refreshed and ready for a day out in Barcelona in this bright, clean apartment in the heart of the Old City. Clean, modern & full of natural light, this apartment has all of Barcelona's most happening cultural hotspots right neaby.",
+    "property_type": "apartment",
+    "price": 780,
+    "size": {
+      "area_sqm": 63,
+      "bedrooms": 1,
+      "bathrooms": 1
+    },
+    "photo": "1.jpeg",
+    "slug": "discover-the-old-city-from-a-bright-and-airy-apartment"
+  },
+  {
+    "name": "Massive villa with a pool",
+    "description": "Fantastic house in Barcelona with 350 m2 of space, a private pool and a terrace. Private gym, 6 bedrooms. 3 bathrooms. High-speed Wi-Fi. Heating and air conditioning. Fifteen min by bus from downtown Barcelona.",
+    "property_type": "villa",
+    "price": 4800,
+    "size": {
+      "area_sqm": 350,
+      "bedrooms": 6,
+      "bathrooms": 3
+    },
+    "photo": "2.jpeg",
+    "slug": "massive-villa-with-a-pool"
+  },
+  {
+    "name": "Amazing Penthouse Apartment near Park Güel",
+    "description": "Eat a delicious meal on the spacious, rustic terrace, while savoring the stunning, wide-ranging views. The unique Catalonian textiles provide a burst of color in this penthouse studio with a state-of-the-art kitchen and modern bathroom.",
+    "property_type": "apartment",
+    "price": 1200,
+    "size": {
+      "area_sqm": 120,
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "photo": "3.jpeg",
+    "slug": "amazing-penthouse-apartment-near-park-guel"
+  },
+  {
+    "name": "Ethnic Studio With 1 Bedroom",
+    "description": "In the heart of Barcelona, this 1-bedroom apartment is the perfect home base for a romantic getaway. Only a minute from the Sagrada Familia Basilica, and within walking distance of Barcelona’s museums and historical sites, this vacation rental invites you into the city. Inspired by traditional Catalan design, the wooden rafters, colorful shutters, and adobe exterior will transport you to another world. 2 sofa beds make this rental ideal for families or business travelers as well as couples.",
+    "property_type": "studio",
+    "price": 650,
+    "size": {
+      "area_sqm": 36,
+      "bedrooms": 1,
+      "bathrooms": 1
+    },
+    "photo": "4.jpeg",
+    "slug": "ethnic-studio-with-1-bedroom"
+  },
+  {
+    "name": "Sunny Loft with terrace",
+    "description": "The Loft at the city center is a perfect place for couples, its a private space with its own sunny private terrace, bathroom and full kitchen . it is nearby main local transportation or an easy walk to the old town as well ;)",
+    "property_type": "loft",
+    "price": 970,
+    "size": {
+      "area_sqm": 105,
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "photo": "5.jpeg",
+    "slug": "sunny-loft-with-terrace"
+  },
+  {
+    "name": "The best house outside of Barcelona",
+    "description": "Country house a 15 minuts of Barcelona. Place to relax with spacious bedrooms, swiming pool, views to the beach where you will arrive to the it in 2 minutes.",
+    "property_type": "villa",
+    "price": 3450,
+    "size": {
+      "area_sqm": 278,
+      "bedrooms": 5,
+      "bathrooms": 5.5
+    },
+    "photo": "6.jpeg",
+    "slug": "the-best-house-outside-of-barcelona"
+  }
+]
