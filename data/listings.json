@@ -8,7 +8,7 @@
       "bedrooms": 1,
       "bathrooms": 1
     },
-    "photo": "1.jpeg",
+    "photo": "https://www.dropbox.com/s/bo95xyu73h5oh2m/1.jpg",
     "slug": "discover-the-old-city-from-a-bright-and-airy-apartment"
   },
   {
@@ -21,7 +21,7 @@
       "bedrooms": 6,
       "bathrooms": 3
     },
-    "photo": "2.jpeg",
+    "photo": "https://www.dropbox.com/s/y6cgqz2xctokijk/2.jpg",
     "slug": "massive-villa-with-a-pool"
   },
   {
@@ -34,7 +34,7 @@
       "bedrooms": 2,
       "bathrooms": 2
     },
-    "photo": "3.jpeg",
+    "photo": "https://www.dropbox.com/s/lrs49zgqam42ci9/3.jpg",
     "slug": "amazing-penthouse-apartment-near-park-guel"
   },
   {
@@ -47,7 +47,7 @@
       "bedrooms": 1,
       "bathrooms": 1
     },
-    "photo": "4.jpeg",
+    "photo": "https://www.dropbox.com/s/up597iajn5zm0l0/4.jpg",
     "slug": "ethnic-studio-with-1-bedroom"
   },
   {
@@ -60,7 +60,7 @@
       "bedrooms": 2,
       "bathrooms": 2
     },
-    "photo": "5.jpeg",
+    "photo": "https://www.dropbox.com/s/qnuztjnmaa73cxp/5.jpg",
     "slug": "sunny-loft-with-terrace"
   },
   {
@@ -73,7 +73,7 @@
       "bedrooms": 5,
       "bathrooms": 5.5
     },
-    "photo": "6.jpeg",
+    "photo": "https://www.dropbox.com/s/qnuztjnmaa73cxp/6.jpg",
     "slug": "the-best-house-outside-of-barcelona"
   }
 ]
