@@ -1,79 +1,155 @@
 [{
     "name": "Discover the Old City from a Bright and Airy Apartment",
-    "description": "Wake up refreshed and ready for a day out in Barcelona in this bright, clean apartment in the heart of the Old City. Clean, modern & full of natural light, this apartment has all of Barcelona's most happening cultural hotspots right neaby.",
+    "description": "Brand new apartment whit a warm, minimalist decor, equipped with everything necessesary to provided confort to both bussines travelers and those who do it for pleassure. It is located in the heart of Palermo Hollywood, an area full off coffe shops, pubs, restaurants, and design shops.",
     "property_type": "apartment",
+    "location": "Buenos Aires, Argentina",
+    "condition": "recently renovated",
     "price": 780,
     "size": {
       "area_sqm": 63,
       "bedrooms": 1,
       "bathrooms": 1
     },
-    "photo": "https://www.dropbox.com/s/bo95xyu73h5oh2m/1.jpg",
-    "slug": "discover-the-old-city-from-a-bright-and-airy-apartment"
+    "photo": "https://www.dropbox.com/s/dz1c63n9gpw0nt5/1.jpg?raw=1"
   },
   {
     "name": "Massive villa with a pool",
     "description": "Fantastic house in Barcelona with 350 m2 of space, a private pool and a terrace. Private gym, 6 bedrooms. 3 bathrooms. High-speed Wi-Fi. Heating and air conditioning. Fifteen min by bus from downtown Barcelona.",
     "property_type": "villa",
+    "location": "Barcelona, Spain",
+    "condition": "new development",
     "price": 4800,
     "size": {
       "area_sqm": 350,
       "bedrooms": 6,
       "bathrooms": 3
     },
-    "photo": "https://www.dropbox.com/s/y6cgqz2xctokijk/2.jpg",
-    "slug": "massive-villa-with-a-pool"
+    "photo": "https://www.dropbox.com/s/y6cgqz2xctokijk/2.jpg?raw=1"
   },
   {
-    "name": "Amazing Penthouse Apartment near Park Güel",
-    "description": "Eat a delicious meal on the spacious, rustic terrace, while savoring the stunning, wide-ranging views. The unique Catalonian textiles provide a burst of color in this penthouse studio with a state-of-the-art kitchen and modern bathroom.",
+    "name": "Helmholtzplatz / Lychener Straße",
+    "description": "Next to my place: Berliner Mauer (Berlin wall), Mauerpark, Volkspark am Weinberg, Wasserturm, Nola's, Pizzeria Ristorante Papa Pane di Sorrento, Restaurant Herr Rossi and Schwarze Pumpe. You will like it, my flat has a high ceilings, cozy atmosphere and it's in a great location.",
     "property_type": "apartment",
+    "location": "Berlin, Germany",
+    "condition": "good condition",
     "price": 1200,
     "size": {
       "area_sqm": 120,
       "bedrooms": 2,
       "bathrooms": 2
     },
-    "photo": "https://www.dropbox.com/s/lrs49zgqam42ci9/3.jpg",
-    "slug": "amazing-penthouse-apartment-near-park-guel"
+    "photo": "https://www.dropbox.com/s/lrs49zgqam42ci9/3.jpg?raw=1"
   },
   {
     "name": "Ethnic Studio With 1 Bedroom",
     "description": "In the heart of Barcelona, this 1-bedroom apartment is the perfect home base for a romantic getaway. Only a minute from the Sagrada Familia Basilica, and within walking distance of Barcelona’s museums and historical sites, this vacation rental invites you into the city. Inspired by traditional Catalan design, the wooden rafters, colorful shutters, and adobe exterior will transport you to another world. 2 sofa beds make this rental ideal for families or business travelers as well as couples.",
     "property_type": "studio",
+    "location": "Jeddah, Makkah Province, Saudi Arabia",
+    "condition": "needs renovating",
     "price": 650,
     "size": {
       "area_sqm": 36,
       "bedrooms": 1,
       "bathrooms": 1
     },
-    "photo": "https://www.dropbox.com/s/up597iajn5zm0l0/4.jpg",
-    "slug": "ethnic-studio-with-1-bedroom"
+    "photo": "https://www.dropbox.com/s/up597iajn5zm0l0/4.jpg?raw=1"
   },
   {
     "name": "Sunny Loft with terrace",
     "description": "The Loft at the city center is a perfect place for couples, its a private space with its own sunny private terrace, bathroom and full kitchen . it is nearby main local transportation or an easy walk to the old town as well ;)",
     "property_type": "loft",
+    "location": "Dhaka, Dacca, Bangladesh",
+    "condition": "brand new",
     "price": 970,
     "size": {
       "area_sqm": 105,
       "bedrooms": 2,
       "bathrooms": 2
     },
-    "photo": "https://www.dropbox.com/s/qnuztjnmaa73cxp/5.jpg",
-    "slug": "sunny-loft-with-terrace"
+    "photo": "https://www.dropbox.com/s/qnuztjnmaa73cxp/5.jpg?raw=1"
   },
   {
-    "name": "The best house outside of Barcelona",
-    "description": "Country house a 15 minuts of Barcelona. Place to relax with spacious bedrooms, swiming pool, views to the beach where you will arrive to the it in 2 minutes.",
+    "name": "Luxury Casa",
+    "description": "Country house a 15 minuts of Casablanca. Place to relax with spacious bedrooms, swiming pool, views to the beach where you will arrive to the it in 2 minutes.",
     "property_type": "villa",
-    "price": 3450,
+    "location": "Casablanca, Morocco",
+    "condition": "good condition",
+    "price": 3820,
     "size": {
       "area_sqm": 278,
       "bedrooms": 5,
-      "bathrooms": 5.5
+      "bathrooms": 6
     },
-    "photo": "https://www.dropbox.com/s/qnuztjnmaa73cxp/6.jpg",
-    "slug": "the-best-house-outside-of-barcelona"
+    "photo": "https://www.dropbox.com/s/5mi7zz9ehisfpju/6.jpg?raw=1"
+  },
+  {
+    "name": "Attic with terrace in the heart SPb",
+    "description": "The new attic with a private roof opposite the Peter and Paul fortress, very close to all famous sightseeings of St. Petersburg. In a walking distance from the apartment the underground. Grocery stores, bars and restaurants in the vicinity.See you!",
+    "property_type": "apartment",
+    "location": "Saint Petersburg, Russia",
+    "condition": "recently renovated",
+    "price": 450,
+    "size": {
+      "area_sqm": 124,
+      "bedrooms": 2,
+      "bathrooms": 1
+    },
+    "photo": "https://www.dropbox.com/s/fls9s5ofhjr2o3j/7.jpg?raw=1"
+  },
+  {
+    "name": "Comfortable studio close to the airport, downtown",
+    "description": "Comfortable studio close to the airport, downtown and many entertainment and cultural places. Includes all the needed services and amenities that will make your stay in Mexico city a great experience.",
+    "property_type": "studio",
+    "location": "Mexico City, Mexico",
+    "condition": "brand new",
+    "price": 275,
+    "size": {
+      "area_sqm": 34,
+      "bedrooms": 1,
+      "bathrooms": 1
+    },
+    "photo": "https://www.dropbox.com/s/tw0p018sdv8uczb/8.jpg?raw=1"
+  },
+  {
+    "name": "Balestier Near Orchard Modern Studio 2-6PPL C03D",
+    "description": "It's a modern studio at the city centre super convenient location! Only 10 to 15 mins walking distance or 3 to 5 mins bus to Tan Tock Seng Hospital and Novena or Boonkeng MRT Station, surrounded by convenience store, supermarket & foodcourt, and very close to many attractions.",
+    "property_type": "studio",
+    "location": "Singapore, Singapore",
+    "condition": "good condition",
+    "price": 3150,
+    "size": {
+      "area_sqm": 40,
+      "bedrooms": 1,
+      "bathrooms": 1
+    },
+    "photo": "https://www.dropbox.com/s/wg5c1gjro5k02js/9.jpg?raw=1"
+  },
+  {
+    "name": "The Elio House - close to Airport/Centre",
+    "description": "Wake up at a full renovated house just for you and your friends! The house is fully equipped so you can feel like at home at all times. The excellent location will allow you to organize the best trips around the historic city and get to the airport and bus stations quickly.",
+    "property_type": "villa",
+    "location": "Lima, Peru",
+    "condition": "recently renovated",
+    "price": 650,
+    "size": {
+      "area_sqm": 278,
+      "bedrooms": 4,
+      "bathrooms": 2
+    },
+    "photo": "https://www.dropbox.com/s/k5c4vul800075ie/10.jpg?raw=1"
+  },
+  {
+    "name": "Pool House Oasis in Central Los Angeles",
+    "description": "Fire up the barbecue and dine al fresco in the private garden by the heated pool. When dinner's over, climb the stairs to the breezy loft bedroom for a peaceful night's sleep. In the morning, pull up a stool and sip some coffee.",
+    "property_type": "villa",
+    "location": "Los Angeles, CA, United States",
+    "condition": "brand new",
+    "price": 7450,
+    "size": {
+      "area_sqm": 420,
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    "photo": "https://www.dropbox.com/s/j321pc5gpj9h3br/11.jpg?raw=1"
   }
 ]

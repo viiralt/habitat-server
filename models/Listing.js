@@ -23,7 +23,8 @@ const ListingSchema = new mongoose.Schema({
     bedrooms: Number,
     bathrooms: Number,
   },
-  features: {},
+  location: String,
+  condition: String,
   photo: String,
   slug: String,
   created: {
