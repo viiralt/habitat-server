@@ -50,4 +50,7 @@ Contributions are more than welcome. Fork && PR.
 
 **Henri Viiralt** - [GitHub](https://github.com/viiralt/habitat-server/new/master?readme=1) - [LinkedIN](https://www.linkedin.com/in/viiralt/)
 
+## License 
+
+MIT
 
